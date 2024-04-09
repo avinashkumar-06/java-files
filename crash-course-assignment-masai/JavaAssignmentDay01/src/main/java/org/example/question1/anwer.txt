@@ -1,0 +1,7 @@
+step 1 : Create a file with .java extension.
+step 2:  Now write your code inside this file.
+step 3 : now open your cmd and go the directory where this file is stored.
+step 4 : write javac followed by filename followed by .java and hit enter
+         example :javac filename.java
+step 5 : now simply write java followed by file name.
+         example : java filename
